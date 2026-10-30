@@ -8,7 +8,7 @@
 </a>
 
 <p>
-  <a href="https://github.com/Gathhaaaan">
+  <a href="https://github.com/Gathhaaan">
     <img src="https://img.shields.io/badge/GitHub-Gathhaaaan-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/gathanyandino/">
@@ -67,11 +67,11 @@ Here are some repositories and projects I've explored or worked on.
 
 | Project | Description | Technology |
 |---|---|---|
-| [MontirAI](https://github.com/Gathhaaaan) | Rule-based vehicle diagnosis system using forward chaining | React, Vite, Tailwind CSS |
-| [aksialam](https://github.com/Gathhaaaan/aksialam) | Repository project | Blade |
-| [kolektor-barang-bekas](https://github.com/Gathhaaaan/kolektor-barang-bekas) | Repository project | Blade |
-| [MountQuiz](https://github.com/Gathhaaaan/MountQuiz) | Repository project | Dart |
-| [fitlog_app](https://github.com/Gathhaaaan/fitlog_app) | Explored application repository | Dart |
+| [MontirAI](https://github.com/Gathhaaan) | Rule-based vehicle diagnosis system using forward chaining | React, Vite, Tailwind CSS |
+| [aksialam](https://github.com/Gathhaaan/aksialam) | Repository project | Blade |
+| [kolektor-barang-bekas](https://github.com/Gathhaaan/kolektor-barang-bekas) | Repository project | Blade |
+| [MountQuiz](https://github.com/Gathhaaan/MountQuiz) | Repository project | Dart |
+| [fitlog_app](https://github.com/Gathhaaan/fitlog_app) | Explored application repository | Dart |
 
 ### 🔬 Currently Exploring
 
@@ -112,7 +112,7 @@ I'm always open to learning, sharing ideas, collaborating on projects, and conne
 
 <div align="center">
 
-<a href="https://github.com/Gathhaaaan">GitHub</a> •
+<a href="https://github.com/Gathhaaan">GitHub</a> •
 <a href="https://www.linkedin.com/in/gathanyandino/">LinkedIn</a> •
 <a href="https://www.instagram.com/gathhaaan/">Instagram</a>
 

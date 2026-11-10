@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:2563EB&height=200&section=header&text=Gathan%20Yandino&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:2563EB&height=200&section=header&text=Gathan%20Yandino%20Putra%20Suwandik&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Gathan+%F0%9F%91%8B;Informatics+Management+Student;Software+Development+Enthusiast;Exploring+Artificial+Intelligence;Always+Learning+and+Building" alt="Typing SVG" />
 

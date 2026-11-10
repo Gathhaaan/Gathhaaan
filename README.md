@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Gathan Yandino**, an Informatics Management student at **Universitas Negeri Surabaya (UNESA)**, Indonesia.
+Hi! I'm **Gathan Yandino Putra Suwandik**, an Informatics Management student at **Universitas Negeri Surabaya (UNESA)**, Indonesia.
 
 I'm passionate about technology, software development, and artificial intelligence. I enjoy exploring new technologies, building practical applications, and turning ideas into useful solutions.
 
